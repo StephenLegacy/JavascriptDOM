@@ -52,5 +52,5 @@ This project is open-source and free to use.
 
 ---
 
-Feel free to update this README as needed!
+
 
